@@ -2,6 +2,22 @@
 
 Newest first. Each version links to its release with the installer.
 
+## [0.2.0](https://github.com/isaac024/MRWeskers-tools/releases/tag/torrenteka-v0.2.0) (2026-11-21)
+
+**New**
+- Ratio column: how much you've uploaded compared to what you downloaded, over the torrent's whole life. Hover it to see both totals. Also in the Sort menu.
+- Tells you at startup when a newer version is out; click the message to get it. Can be switched off in Settings.
+
+**Changed**
+- Every column in the list is centred.
+- Settings: the colour pickers fold away under the preset line (arrow on the right), closed by default.
+- Close to tray lives only in the toolbar now.
+- "Too big for the Recycle Bin" now lists just the torrents and their sizes, measured from what's really on disk.
+
+**Fixed**
+- No empty box in the status bar when there's no message.
+- A warning that keeps repeating (like an unreadable drive) now clears on time instead of staying forever.
+
 ## [0.1.0](https://github.com/isaac024/MRWeskers-tools/releases/tag/torrenteka-v0.1.0) (2026-11-21)
 
 First release.

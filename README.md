@@ -6,7 +6,7 @@ details and a changelog, and its own releases on the
 
 | Tool | What it is | Latest | Date | Download |
 |---|---|---|---|---|
-| [Torrentéka](torrenteka/) | A small, fast BitTorrent client: no ads, about 50 MB of memory | 0.1.0 | 2026-11-21 | [Torrenteka-Setup.exe](https://github.com/isaac024/MRWeskers-tools/releases/download/torrenteka-v0.1.0/Torrenteka-Setup.exe) |
+| [Torrentéka](torrenteka/) | A small, fast BitTorrent client: no ads, about 50 MB of memory | 0.2.0 | 2026-11-21 | [Torrenteka-Setup.exe](https://github.com/isaac024/MRWeskers-tools/releases/download/torrenteka-v0.2.0/Torrenteka-Setup.exe) |
 | [KARDS overlay](kards-overlay/) | Deck tracker overlay for KARDS | source only | 2025-08-01 | [KardsTracker.zip](kards-overlay/KardsTracker.zip) |
 
 ## Installing

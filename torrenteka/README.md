@@ -4,8 +4,8 @@ A small, fast BitTorrent client for Windows. No ads, your own colours, about
 50 MB of memory with 50 torrents (BitTorrent Web used about 330 MB in the same
 test).
 
-**Latest: 0.1.0 (2026-11-21)**:
-[Torrenteka-Setup.exe](https://github.com/isaac024/MRWeskers-tools/releases/download/torrenteka-v0.1.0/Torrenteka-Setup.exe)
+**Latest: 0.2.0 (2026-11-21)**:
+[Torrenteka-Setup.exe](https://github.com/isaac024/MRWeskers-tools/releases/download/torrenteka-v0.2.0/Torrenteka-Setup.exe)
 (about 31 MB). Every version: [CHANGELOG.md](CHANGELOG.md).
 
 ## Install
